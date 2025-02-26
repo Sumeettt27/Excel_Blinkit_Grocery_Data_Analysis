@@ -8,17 +8,17 @@ Data analysis of Blinkit Grocery using Excel
 </div>
 <br/>
 
-<h2>Overview</h2>
+<h2>Overview:</h2>
 <p>This project analyzes Blinkit's sales data to identify revenue trends, product performance, and customer purchasing behavior. The dashboard highlights key metrics, helping optimize business strategies and uncover growth opportunities.</p>
         
-<h2>Data Source & Tools Used</h2>
+<h2>Data Source & Tools Used:</h2>
 <ul>
     <li><strong>Data:</strong> Hypothetical dataset modeled on real-world sales trends</li>
     <li><strong>Tools Used:</strong> Excel</li>
     <li><strong>Focus Areas:</strong> Revenue trends, product performance, outlet performance, and customer behavior</li>
 </ul>
         
-  <h2>Key Metrics</h2>
+  <h2>Key Metrics:</h2>
   <ul>
       <li><strong>Total Sales:</strong> ₹1,200,000</li>
       <li><strong>Average Order Value:</strong> ₹141</li>
@@ -47,7 +47,7 @@ Data analysis of Blinkit Grocery using Excel
       <li>Supermarket-type outlets generate the highest revenue, showing strong customer reliance on these stores.</li>
   </ul>
   
-  <h2>Key Insights</h2>
+  <h2>Key Insights:</h2>
   <ul>
       <li><strong>Marketing Strategy:</strong> Tier 1 outlets underperform compared to Tier 2 and Tier 3, highlighting room for targeted promotions.</li>
       <li><strong>Product Strategy:</strong> Seafood and breakfast items have lower sales, suggesting the need for better pricing or bundling options.</li>
