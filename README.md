@@ -9,7 +9,7 @@ Data analysis of Blinkit Grocery using Excel
 <br/>
 
 <h2>Overview:</h2>
-<p>This project analyzes Blinkit's sales data to identify revenue trends, product performance, and customer purchasing behavior. The dashboard highlights key metrics, helping optimize business strategies and uncover growth opportunities.</p>
+<p>This project analyzes Blinkit's sales data to identify revenue trends, product performance, outlet performance, and customer purchasing behavior. The dashboard highlights key metrics, helping optimize business strategies and uncover growth opportunities.</p>
         
 <h2>Data Source & Tools Used:</h2>
 <ul>
